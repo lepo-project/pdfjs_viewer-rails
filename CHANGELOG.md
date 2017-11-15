@@ -1,3 +1,9 @@
+## 0.2.2
+- Fix some extra styles for LePo LMS
+
+## 0.2.1
+- Put some extra styles for LePo LMS
+
 ## 0.2.0
 
 - Allow customizing the viewer (see https://github.com/senny/pdfjs_viewer-rails#customizing-the-viewer)
