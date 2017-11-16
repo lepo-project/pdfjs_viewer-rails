@@ -1,3 +1,6 @@
+## 0.2.4
+- Fix some extra styles for LePo LMS
+
 ## 0.2.3
 - Fix some extra styles for LePo LMS
 
