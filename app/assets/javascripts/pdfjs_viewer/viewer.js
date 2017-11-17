@@ -371,7 +371,7 @@ var pdfjsWebLibs;
       "enableHandToolOnLoad": false,
       "enableWebGL": false,
       "pdfBugEnabled": false,
-      "disableRange": false,
+      "disableRange": true,
       "disableStream": false,
       "disableAutoFetch": false,
       "disableFontFace": false,

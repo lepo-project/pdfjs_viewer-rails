@@ -1,3 +1,6 @@
+## 0.2.5
+  Set true for "disableRange" in viewer.js to prevent HTTP 206 request failed
+
 ## 0.2.4
 - Fix some extra styles for LePo LMS
 
