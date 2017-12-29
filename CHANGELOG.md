@@ -1,3 +1,9 @@
+## 0.2.7
+  Fix version number
+
+## 0.2.6
+  Fix style in extra_head.html.erb
+
 ## 0.2.5
   Set true for "disableRange" in viewer.js to prevent HTTP 206 request failed
 
