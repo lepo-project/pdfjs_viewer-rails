@@ -1,3 +1,6 @@
+## 0.2.8
+  Disable shortcut key
+
 ## 0.2.7
   Fix version number
 

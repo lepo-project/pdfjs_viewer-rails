@@ -6422,7 +6422,7 @@ var pdfjsWebLibs;
      var eventBus = this.eventBus;
      window.addEventListener('wheel', webViewerWheel);
      window.addEventListener('click', webViewerClick);
-     window.addEventListener('keydown', webViewerKeyDown);
+     // window.addEventListener('keydown', webViewerKeyDown);
      window.addEventListener('resize', function windowResize() {
       eventBus.dispatch('resize');
      });
